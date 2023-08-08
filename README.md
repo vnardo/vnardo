@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <p>__________________________________________________________________________________________________________________________________________________</p>
+  <p>_________________________________________________________________________________________________________________________________________________</p>
 </div>
 
 ### Main skills:
@@ -30,7 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-  <p>__________________________________________________________________________________________________________________________________________________</p>
+  <p>_________________________________________________________________________________________________________________________________________________</p>
 </div>
 
 <br>
@@ -51,9 +51,9 @@
 <br>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vnardo}/count.svg" /></p> 
-<br></div>
+  <p align="center">Visitors Count:</p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{vnardo}/count.svg" /></p> 
+</div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#553388&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#553388&height=120&section=footer"/>
