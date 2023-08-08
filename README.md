@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Ola!!! eu sou Victor Nardo</h1>
 
-<!--
-**vnardo/vnardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href=https://github.com/wel02>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=vnardo&show_icons=true&theme=midnight-purple" alt="estatisticas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnardo&layout=compact&theme=midnight-purple" alt="linguagens">
+</div>
 
-Here are some ideas to get you started:
+<h2>About me</h2>
+- :mag_right:exploring new technologies
+- :mortar_board:Studying sistems development at <a href="https://plataforma.devclub.com.br/">Dev Clube</a>.
+- 🌱 I’m currently learning JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+
