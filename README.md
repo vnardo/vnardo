@@ -2,8 +2,8 @@
 
 <div>
   <a href=https://github.com/wel02>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=vnardo&show_icons=true&theme=midnight-purple" alt="estatisticas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnardo&layout=compact&theme=midnight-purple" alt="linguagens">
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=vnardo&show_icons=true&theme=midnight-purple" alt="estatisticas">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnardo&layout=compact&theme=midnight-purple" alt="linguagens">
 </div>
 
 <h2>About me</h2>
