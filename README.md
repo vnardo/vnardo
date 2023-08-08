@@ -14,7 +14,6 @@
 <br>
 <br>
 <br>
-<br>
 
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -31,7 +30,9 @@
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### My Trophys:
+<br>
+<br>
+<br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
